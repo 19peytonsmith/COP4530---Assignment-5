@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Peyton/CLionProjects/Tree5/bet.h
+iostream
+-
+vector
+-
+sstream
+-
+stack
+-
+bet.hpp
+C:/Users/Peyton/CLionProjects/Tree5/bet.hpp
+
+C:/Users/Peyton/CLionProjects/Tree5/bet.hpp
+
+C:/Users/Peyton/CLionProjects/Tree5/main.cpp
+iostream
+-
+string
+-
+bet.h
+C:/Users/Peyton/CLionProjects/Tree5/bet.h
+
